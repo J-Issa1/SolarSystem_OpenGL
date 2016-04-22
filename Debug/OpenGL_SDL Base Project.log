@@ -1,0 +1,27 @@
+﻿Build started 22/04/2016 09:02:15.
+     1>Project "C:\Users\JordanPC\Desktop\OpenGL Assignment 1\OpenGL_SDL Base Project\OpenGL_SDL Base Project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ISDL\image_include /ISDL\mixer_include /ISDL\include /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Terrain.cpp
+         Terrain.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\JordanPC\Desktop\OpenGL Assignment 1\OpenGL_SDL Base Project\Debug\OpenGL_SDL Base Project.exe" /INCREMENTAL /NOLOGO /LIBPATH:SDL\ kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\JordanPC\Desktop\OpenGL Assignment 1\OpenGL_SDL Base Project\Debug\OpenGL_SDL Base Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\JordanPC\Desktop\OpenGL Assignment 1\OpenGL_SDL Base Project\Debug\OpenGL_SDL Base Project.lib" /MACHINE:X86 Debug\3dsLoader.obj
+         Debug\Camera.obj
+         Debug\GameScreen.obj
+         Debug\GameScreenLevel1.obj
+         Debug\GameScreenManager.obj
+         Debug\Object3ds.obj
+         Debug\QuaternionMath.obj
+         Debug\Source.obj
+         Debug\Terrain.obj
+         Debug\Texture.obj
+         ..\gl\glut32.lib
+         SDL\SDL2.lib
+         SDL\SDL2main.lib
+         SDL\SDL2_image.lib
+         SDL\SDL2_mixer.lib
+         OpenGL_SDL Base Project.vcxproj -> C:\Users\JordanPC\Desktop\OpenGL Assignment 1\OpenGL_SDL Base Project\Debug\OpenGL_SDL Base Project.exe
+     1>Done Building Project "C:\Users\JordanPC\Desktop\OpenGL Assignment 1\OpenGL_SDL Base Project\OpenGL_SDL Base Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.32
